@@ -1,0 +1,9 @@
+streamlit==1.32.0
+arxiv==1.4.8
+PyPDF2==3.0.1
+matplotlib==3.8.2
+numpy==1.24.3
+pandas==2.0.3
+sympy==1.12
+streamlit-pdf-viewer==0.0.22
+ollama==0.1.6 
